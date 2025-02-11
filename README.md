@@ -4,8 +4,9 @@ This is a custom configuration for bash.bashrc in Termux. Change the appearance 
 
 📥 How To Install
 
- git clone https://github.com/username/repo.git
- cd repo
- cp bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc
- source /data/data/com.termux/files/usr/etc/bash.bashrc
-
+ ```
+git clone https://github.com/username/repo.git
+cd repo
+cp bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc
+source /data/data/com.termux/files/usr/etc/bash.bashrc
+```
