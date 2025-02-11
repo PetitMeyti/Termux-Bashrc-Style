@@ -5,8 +5,8 @@ This is a custom configuration for bash.bashrc in Termux. Change the appearance 
 📥 How To Install
 
  ```
-git clone https://github.com/volansss5/Termux-Bashrc-Style/blob/main/bash.bashrc
-cd repo
+git clone https://github.com/volansss5/Termux-Bashrc-Style.git
+cd Termux-Bashrc-Style
 cp bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc
 source /data/data/com.termux/files/usr/etc/bash.bashrc
 ```
