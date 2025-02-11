@@ -1,14 +1,3 @@
-######################################
-#
-# Termux bash.bashrc
-# by brainf+ck
-#
-# Last modified: 2022/06/30
-#
-######################################
-
-#### Global ##########################
-
 # Color
 export GREP_COLOR="1;32"
 export LS_COLORS="di=1;32:fi=1;32"
